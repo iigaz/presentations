@@ -4,3 +4,4 @@
 
 Презентации:
 - [Good Habits (Технологии, которые изменили мир)](https://iigaz.github.io/presentations/technology/index.html)
+- [Очередь с приоритетом](https://iigaz.github.io/presentations/pqueue/index.html)

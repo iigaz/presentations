@@ -71,6 +71,7 @@
         <section
           data-auto-animate=""
           data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"
+          data-visibility="uncounted"
         >
           <div data-id="wrapper" style="outline: 100rem solid black">
             <div
@@ -185,14 +186,17 @@ public void Push(TPriority priority, TElement element)
                        },
                        "elements": {
                            "line": {"tension": 0.5}
-                       }
+                       },
+                       "scales": {
+                           "y": {"title": {"display": true, "font": {"size": 24}, "text": "Тики процессора"}},
+                           "x": {"title": {"display": true, "font": {"size": 24}, "text": "Количество элементов"}}}
                    }
                    }
                   -->
               </canvas>
             </div>
           </section>
-          <section>
+          <section data-visibility="uncounted">
             <div style="height: 480px">
               <canvas
                 data-chart="scatter"
@@ -216,7 +220,10 @@ public void Push(TPriority priority, TElement element)
                        },
                        "elements": {
                            "line": {"tension": 0.5}
-                       }
+                       },
+                       "scales": {
+                           "y": {"title": {"display": true, "font": {"size": 24}, "text": "Тики процессора"}},
+                           "x": {"title": {"display": true, "font": {"size": 24}, "text": "Количество элементов"}}}
                    }
                    }
                   -->
@@ -250,14 +257,17 @@ public void Push(TPriority priority, TElement element)
                        },
                        "elements": {
                            "line": {"tension": 0.5}
-                       }
+                       },
+                       "scales": {
+                           "y": {"title": {"display": true, "font": {"size": 24}, "text": "Тики процессора"}},
+                           "x": {"title": {"display": true, "font": {"size": 24}, "text": "Количество элементов"}}}
                    }
                    }
                   -->
               </canvas>
             </div>
           </section>
-          <section>
+          <section data-visibility="uncounted">
             <div style="height: 480px">
               <canvas
                 data-chart="scatter"
@@ -281,7 +291,10 @@ public void Push(TPriority priority, TElement element)
                        },
                        "elements": {
                            "line": {"tension": 0.5}
-                       }
+                       },
+                       "scales": {
+                           "y": {"title": {"display": true, "font": {"size": 24}, "text": "Тики процессора"}},
+                           "x": {"title": {"display": true, "font": {"size": 24}, "text": "Количество элементов"}}}
                    }
                    }
                   -->
@@ -315,14 +328,17 @@ public void Push(TPriority priority, TElement element)
                          },
                          "elements": {
                          "line": {"tension": 0.5}
-                         }
+                         },
+                       "scales": {
+                           "y": {"title": {"display": true, "font": {"size": 24}, "text": "Тики процессора"}},
+                           "x": {"title": {"display": true, "font": {"size": 24}, "text": "Количество элементов"}}}
                          }
                          }
                     -->
               </canvas>
             </div>
           </section>
-          <section>
+          <section data-visibility="uncounted">
             <div style="height: 480px">
               <canvas
                 data-chart="scatter"
@@ -346,7 +362,10 @@ public void Push(TPriority priority, TElement element)
                          },
                          "elements": {
                          "line": {"tension": 0.5}
-                         }
+                         },
+                       "scales": {
+                           "y": {"title": {"display": true, "font": {"size": 24}, "text": "Тики процессора"}},
+                           "x": {"title": {"display": true, "font": {"size": 24}, "text": "Количество элементов"}}}
                          }
                          }
                     -->
@@ -374,6 +393,7 @@ public void Push(TPriority priority, TElement element)
         <section
           data-auto-animate=""
           data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"
+          data-visibility="uncounted"
         >
           <h4>И этим новым графиком оказывается...</h4>
           <h3>Фибоначчиева куча!</h3>

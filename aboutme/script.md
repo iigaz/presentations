@@ -27,7 +27,7 @@ Note:
 
 ---
 
-<!-- .slide: data-transition="none" -->
+<!-- .slide: data-transition="none" data-visibility="uncounted" -->
 
 ![Tatar](https://sun9-33.userapi.com/c235031/u127656216/d10/-3/x_ff33e006b3.jpg)
 
@@ -37,7 +37,7 @@ My name is Ilnar. **I'm ethnically Tatar, and I lived in Kazan my whole life.** 
 
 ---
 
-<!-- .slide: data-transition="none" -->
+<!-- .slide: data-transition="none" data-visibility="uncounted" -->
 
 ![SE](https://previews.123rf.com/images/carballo/carballo1511/carballo151100243/47707649-young-man-hammering-computer.jpg)
 
@@ -57,7 +57,7 @@ Note:
 
 ---
 
-<!-- .slide: data-transition="none" -->
+<!-- .slide: data-transition="none" data-visibility="uncounted" -->
 
 ![C#](https://images.ctfassets.net/3s5io6mnxfqz/22jERxDa4z9ttdI7waMOWA/e0a48ee389dec500b5d474fca1282a8e/C_sharp.png)
 
@@ -67,7 +67,7 @@ I've been programming for at least six years. I've written programs on a lot of 
 
 ---
 
-<!-- .slide: data-transition="none" -->
+<!-- .slide: data-transition="none" data-visibility="uncounted" -->
 
 ![Python](https://images.techhive.com/images/article/2016/01/1200px-burmese_python_02-100637340-large.jpg?auto=webp&quality=85,70) <!-- .element height="70%" width="70%" -->
 
@@ -77,7 +77,7 @@ I've been programming for at least six years. I've written programs on a lot of 
 
 ---
 
-<!-- .slide: data-transition="none" -->
+<!-- .slide: data-transition="none" data-visibility="uncounted" -->
 
 ![C++](https://theplayroom.com.au/cdn/shop/products/3310_plus-plus_Basic_600_pcs_1_1200x1200.jpg?v=1632711495) <!-- .element height="70%" width="70%" -->
 
@@ -87,7 +87,7 @@ I've been programming for at least six years. I've written programs on a lot of 
 
 ---
 
-<!-- .slide: data-transition="none" -->
+<!-- .slide: data-transition="none" data-visibility="uncounted" -->
 
 ![Editor](images/editor.jpg) <!-- .element height="70%" width="70%" -->
 
@@ -97,7 +97,7 @@ I've been programming for at least six years. I've written programs on a lot of 
 
 ---
 
-<!-- .slide: data-transition="none" -->
+<!-- .slide: data-transition="none" data-visibility="uncounted" -->
 
 ![Reader](images/reader.jpg) <!-- .element height="30%" width="30%" -->
 
@@ -107,7 +107,7 @@ I've been programming for at least six years. I've written programs on a lot of 
 
 ---
 
-<!-- .slide: data-transition="none" -->
+<!-- .slide: data-transition="none" data-visibility="uncounted" -->
 
 ![Dango](images/dango.png) <!-- .element height="30%" width="30%" -->
 
@@ -119,7 +119,7 @@ Note:
 
 ---
 
-<!-- .slide: data-transition="none" -->
+<!-- .slide: data-transition="none" data-visibility="uncounted" -->
 
 ![Delight](images/delight.jpg)
 
@@ -132,7 +132,7 @@ Note:
 ---
 
 
-<!-- .slide: data-transition="none" -->
+<!-- .slide: data-transition="none" data-visibility="uncounted" -->
 
 ![RPGE](images/rpge.png) <!-- .element height="70%" width="70%" -->
 
@@ -145,7 +145,7 @@ Note:
 ---
 
 
-<!-- .slide: data-transition="none" -->
+<!-- .slide: data-transition="none" data-visibility="uncounted" -->
 
 ![Bot](images/bot.png) <!-- .element height="70%" width="70%" -->
 
@@ -158,7 +158,7 @@ Note:
 ---
 
 
-<!-- .slide: data-transition="none" -->
+<!-- .slide: data-transition="none" data-visibility="uncounted" -->
 
 ![Balls](images/balls.jpg) <!-- .element height="30%" width="30%" -->
 
@@ -171,7 +171,7 @@ Note:
 ---
 
 
-<!-- .slide: data-transition="none" -->
+<!-- .slide: data-transition="none" data-visibility="uncounted" -->
 
 # ...
 
@@ -182,7 +182,7 @@ Note:
 ---
 
 
-<!-- .slide: data-transition="none" -->
+<!-- .slide: data-transition="none" data-visibility="uncounted" -->
 
 ![Yandex](https://almaty.fizmat.kz/wp-content/uploads/sites/2/2020/09/RvvmXk0FkCw.jpg)
 
@@ -193,7 +193,7 @@ Note:
 ---
 
 
-<!-- .slide: data-transition="none" -->
+<!-- .slide: data-transition="none" data-visibility="uncounted" -->
 
 ![CP](https://i.ytimg.com/vi/ueNT-w7Oluw/maxresdefault.jpg) <!-- .element height="70%" width="70%" -->
 
@@ -215,7 +215,7 @@ Note:
 ---
 
 
-<!-- .slide: data-transition="none" -->
+<!-- .slide: data-transition="none" data-visibility="uncounted" -->
 
 ![Music](https://i.imgflip.com/5v3flm.png?a470280)
 
@@ -225,7 +225,7 @@ I guess it's quite clear now that coding is how I usually spend my pastime. **Al
 
 ---
 
-<!-- .slide: data-transition="none" -->
+<!-- .slide: data-transition="none" data-visibility="uncounted" -->
 
 ![Piano](https://as2.ftcdn.net/v2/jpg/02/87/38/81/1000_F_287388197_h3h2ZgHNgCTr1VcuCIV5DLKkCXaNUud2.jpg)
 
@@ -235,7 +235,7 @@ I guess it's quite clear now that coding is how I usually spend my pastime. Also
 
 ---
 
-<!-- .slide: data-transition="none" -->
+<!-- .slide: data-transition="none" data-visibility="uncounted" -->
 
 ![C](https://simplycode.co.il/2021/07/23/programming-memes-3/en/2.jpg) <!-- .element height="50%" width="50%" -->
 
@@ -254,4 +254,6 @@ I guess it's quite clear now that coding is how I usually spend my pastime. Also
 ---
 
 # Thanks!
+
+<!-- .slide: data-visibility="uncounted" -->
 

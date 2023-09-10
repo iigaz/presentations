@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+
+    <title>About me</title>
+
+    <link rel="stylesheet" href="../reveal.js/dist/reset.css" />
+    <link rel="stylesheet" href="../reveal.js/dist/reveal.css" />
+    <link rel="stylesheet" href="../reveal.js/dist/theme/simple.css" />
+
+    <!-- Theme used for syntax highlighted code -->
+    <link rel="stylesheet" href="../reveal.js/plugin/highlight/monokai.css" />
+
+    <style>
+      .slide-with-logo img {
+        float: right;
+      }
+
+      .slide-with-logo p {
+        display: block;
+      }
+
+      .slide-number {
+        font-size: 16px !important;
+        left: 8px !important;
+        right: auto !important;
+        padding: 8px !important;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section
+          data-markdown="script.md"
+          data-separator="^\n-----\n$"
+          data-separator-vertical="^\n---\n$"
+          data-separator-notes="^Note:$"
+        ></section>
+      </div>
+    </div>
+
+    <script src="../reveal.js/dist/reveal.js"></script>
+    <script src="../reveal.js/plugin/notes/notes.js"></script>
+    <script src="../reveal.js/plugin/markdown/markdown.js"></script>
+    <script src="../reveal.js/plugin/highlight/highlight.js"></script>
+    <script>
+      // More info about initialization & config:
+      // - https://revealjs.com/initialization/
+      // - https://revealjs.com/config/
+      Reveal.initialize({
+        slideNumber: "c/t",
+        hash: true,
+        navigationMode: "linear",
+
+        // Learn about plugins: https://revealjs.com/plugins/
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+      });
+    </script>
+  </body>
+</html>

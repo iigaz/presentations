@@ -256,4 +256,3 @@ I guess it's quite clear now that coding is how I usually spend my pastime. Also
 # Thanks!
 
 <!-- .slide: data-visibility="uncounted" -->
-

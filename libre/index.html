@@ -7,11 +7,11 @@
       content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
     />
 
-    <title>About me</title>
+    <title>Свободное использование произведений</title>
 
     <link rel="stylesheet" href="../reveal.js/dist/reset.css" />
     <link rel="stylesheet" href="../reveal.js/dist/reveal.css" />
-    <link rel="stylesheet" href="../reveal.js/dist/theme/simple.css" />
+    <link rel="stylesheet" href="../reveal.js/dist/theme/serif.css" />
 
     <!-- Theme used for syntax highlighted code -->
     <link rel="stylesheet" href="../reveal.js/plugin/highlight/monokai.css" />
@@ -27,8 +27,10 @@
 
       .slide-number {
         font-size: 16px !important;
-        left: 8px !important;
-        right: auto !important;
+        /* left: 8px !important; */
+        /* right: auto !important; */
+        /* top: 8px !important;
+           bottom: auto !important; */
         padding: 8px !important;
       }
     </style>
@@ -38,9 +40,9 @@
       <div class="slides">
         <section
           data-markdown="script.md"
-          data-separator="^\n-----\n$"
-          data-separator-vertical="^\n---\n$"
-          data-separator-notes="^Note:$"
+          data-separator="^\n---\n$"
+          data-separator-vertical="^\n-----\n$"
+          data-separator-notes="^\*---\*$"
         ></section>
       </div>
     </div>
@@ -54,6 +56,7 @@
       // - https://revealjs.com/initialization/
       // - https://revealjs.com/config/
       Reveal.initialize({
+        controls: false,
         slideNumber: "c/t",
         hash: true,
         navigationMode: "linear",

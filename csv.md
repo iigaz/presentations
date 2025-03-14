@@ -1,7 +1,7 @@
 ## Повторение
 
 <details id="todo-code">
-<summaly>Полное решение Задания 4 с прошлого занятия</summary>
+<summary>Полное решение Задания 4 с прошлого занятия</summary>
 
 ```python
 with open("todo.txt", "a") as f:
